@@ -24,6 +24,14 @@ The original paper provided a dataset for their research, but it was inaccessibl
 
 For both datasets, we focused on the lower part of the face images, as our goal was to recognize emotions of VR users based on the visible facial area when wearing a VR headset. Please refer to our report for more detailed information about the datasets and our approach.
 
+## Checkpoints
+
+
+| Dataset | Top-1 Accuracy | Path |
+| ------- | -------------- | ---- |
+| AI Hub  | 100            | checkpoint/try1_aihub_model_best.pth |
+| Ours    | 72.3           | checkpoint/try3_ours_best.pth |
+
 
 ## Reference
 https://github.com/Talented-Q/POSTER_V2
