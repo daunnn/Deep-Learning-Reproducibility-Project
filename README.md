@@ -2,7 +2,7 @@
 
 This project aims to reproduce the key findings and claims of the paper "POSTER: A Pyramid Cross-Fusion 8 Transformer Network for Facial Expression Recognition." 
 
-```plaintext
+```
 Deep-Learning-Reproducibility-Project/
 ├── checkpoint/
 ├── data/            # AI Hub dataset
@@ -20,7 +20,7 @@ Deep-Learning-Reproducibility-Project/
 ├── main.py
 ├── main_no_augmentation.py
 └── requirements.txt
-
+```
 
 ## Train
 
