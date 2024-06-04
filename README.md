@@ -5,18 +5,14 @@ This project aims to reproduce the key findings and claims of the paper "POSTER:
 ```
 Deep-Learning-Reproducibility-Project/
 ├── checkpoint/
-├── data/            # AI Hub dataset
+├── data/
+│   ├── Aihub train
+│   ├── AIhub test
 ├── data_preprocessing/
-├── log/             # Training logs, graphs
-├── models/          # Model codes used for training
-│   ├── pretrain/
-│   ├── ir50.py
-│   ├── matrix.py
-│   ├── mobilefacenet.py
-│   ├── PosterV2_3cls.py
-│   ├── vit_model.py
-│   └── vit_model_8.py
-├── README.md
+├── log/             
+│   ├── Training logs, graphs
+├── models/          
+│   ├── Model codes used for training
 ├── main.py
 ├── main_no_augmentation.py
 └── requirements.txt
