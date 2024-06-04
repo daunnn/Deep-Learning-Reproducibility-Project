@@ -2,7 +2,7 @@
 
 ## Train
 
-    python main.py --data path --lr 3.5e-5 --batch-size 64 --epochs 100 --gpu 0
+    python main.py --data path/to/dataset --lr 3.5e-5 --batch-size 64 --epochs 100 --gpu 0
 
 ## Test
 
