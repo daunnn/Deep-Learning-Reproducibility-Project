@@ -26,6 +26,8 @@ For both datasets, we focused on the lower part of the face images, as our goal 
 
 ## Checkpoints
 
+The checkpoints we trained are available at the following:
+https://drive.google.com/drive/folders/1s55acYF6KqU9yJ-z909Oe1CF-kQtWFul?usp=drive_link 
 
 | Train Dataset                  | Top-1 Accuracy | Path                                 | 
 | --------------------------     | -------------- | ------------------------------------ |
