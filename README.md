@@ -2,23 +2,26 @@
 
 This project aims to reproduce the key findings and claims of the paper "POSTER: A Pyramid Cross-Fusion 8 Transformer Network for Facial Expression Recognition." 
 
-- Deep-Learning-Reproducibility-Project/
-  - checkpoint/
-  - data/            # AI Hub dataset
-  - data_preprocessing/
-  - log/             # Training logs, graphs
-  - models/          # Model codes used for training
-    - pretrain/
-    - ir50.py
-    - matrix.py
-    - mobilefacenet.py
-    - PosterV2_3cls.py
-    - vit_model.py
-    - vit_model_8.py
-  - README.md
-  - main.py
-  - main_no_augmentation.py
-  - requirements.txt
+`markdown
+# Deep-Learning-Reproducibility-Project
+
+Deep-Learning-Reproducibility-Project/
+├── checkpoint/
+├── data/            # AI Hub dataset
+├── data_preprocessing/
+├── log/             # Training logs, graphs
+├── models/          # Model codes used for training
+│   ├── pretrain/
+│   ├── ir50.py
+│   ├── matrix.py
+│   ├── mobilefacenet.py
+│   ├── PosterV2_3cls.py
+│   ├── vit_model.py
+│   └── vit_model_8.py
+├── README.md
+├── main.py
+├── main_no_augmentation.py
+└── requirements.txt
 
 
 ## Train
