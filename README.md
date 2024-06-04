@@ -43,7 +43,7 @@ For both datasets, we focused on the lower part of the face images, as our goal 
 ## Checkpoints
 
 The checkpoints we trained are available at the following:
-https://drive.google.com/drive/folders/1s55acYF6KqU9yJ-z909Oe1CF-kQtWFul?usp=drive_link 
+[Checkpoints](https://drive.google.com/drive/folders/1s55acYF6KqU9yJ-z909Oe1CF-kQtWFul?usp=drive_link)
 
 | Train Dataset                  | Top-1 Accuracy | Path                                 | 
 | --------------------------     | -------------- | ------------------------------------ |
@@ -55,7 +55,7 @@ https://drive.google.com/drive/folders/1s55acYF6KqU9yJ-z909Oe1CF-kQtWFul?usp=dri
 
 
 ## Reference
-https://github.com/Talented-Q/POSTER_V2
+[POSTER_V2](https://github.com/Talented-Q/POSTER_V2)
 
 @article{mao2023poster,
   title={POSTER V2: A simpler and stronger facial expression recognition network},
