@@ -27,10 +27,13 @@ For both datasets, we focused on the lower part of the face images, as our goal 
 ## Checkpoints
 
 
-| Dataset | Top-1 Accuracy | Path |
-| ------- | -------------- | ---- |
-| AI Hub  | 100            | checkpoint/try1_aihub_model_best.pth |
-| Ours    | 72.3           | checkpoint/try3_ours_best.pth |
+| Train Dataset                  | Top-1 Accuracy | Path                                 | 
+| --------------------------     | -------------- | ------------------------------------ |
+| AI Hub                         | 100            | checkpoint/try1_aihub_model_best.pth |
+| Ours                           | 81.40          | checkpoint/try3_ours_best.pth        |
+| Ours(data augmentation)        | 92.81          | checkpoint/try4_ours_best.pth        |
+| Ours(parameter_search)         | 80.77          | checkpoint/try5_ours_best.pth        |
+
 
 
 ## Reference
