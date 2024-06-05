@@ -38,7 +38,7 @@ The original paper provided a dataset for their research, but it was inaccessibl
 
     We collected additional data directly by capturing images of VR users wearing headsets. Due to privacy and consent considerations, we are not publicly sharing this dataset. However, if you need to access it, please contact us via email. (daun@seoultech.ac.kr)
 
-For both datasets, we focused on the lower part of the face images, as our goal was to recognize emotions of VR users based on the visible facial area when wearing a VR headset. Please refer to our report for more detailed information about the datasets and our approach.
+Please refer to our report for more detailed information about the datasets and our approach.
 
 ## Checkpoints
 
