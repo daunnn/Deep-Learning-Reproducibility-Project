@@ -17,6 +17,13 @@ Deep-Learning-Reproducibility-Project/
 ├── main_no_augmentation.py
 └── requirements.txt
 ```
+## Installation
+
+Before running the project, ensure you have Python installed on your machine. You can install the required packages by running:
+
+
+    pip install -r requirements.txt
+
 
 ## Train
 
