@@ -2,7 +2,7 @@
 
 This project aims to reproduce the key findings and claims of the paper 'POSTER: A Pyramid Cross-Fusion Transformer Network for Facial Expression Recognition.' 
 
-To evaluate the model’s generalizability, modifications were made to adapt it to a new dataset.
+To evaluate the model’s generalizability, modifications were made to adapt it to a new dataset focused exclusively on three emotions: positive, neutral, and negative.
 
 ```
 Deep-Learning-Reproducibility-Project/
@@ -45,7 +45,8 @@ Before running the project, ensure you have Python installed on your machine. Yo
 ## Datasets 
 
 The original paper provided a dataset for their research, but it was inaccessible to us. 
-As the result, we constructed our own datasets for our experiments, using only data that represents three key emotions: positive, neutral, and negative.
+
+As a result, we constructed our own datasets for our experiments, using only data that represents three key emotions: positive, neutral, and negative.
 
 
 
