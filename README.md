@@ -1,4 +1,4 @@
-# Deep-Learning-Reproducibility-Project
+# Facial Expression Recognition 
 
 This project aims to reproduce the key findings and claims of the paper "POSTER: A Pyramid Cross-Fusion 8 Transformer Network for Facial Expression Recognition." 
 
