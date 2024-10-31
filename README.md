@@ -1,7 +1,8 @@
 # Facial Expression Recognition 
 
 This project aims to reproduce the key findings and claims of the paper 'POSTER: A Pyramid Cross-Fusion Transformer Network for Facial Expression Recognition.' 
-Modifications were made to adapt the original model and code for use with alternative datasets, allowing for validation and performance evaluation on new data sources.
+
+To evaluate the model’s generalizability, modifications were made to adapt it to a new dataset.
 
 ```
 Deep-Learning-Reproducibility-Project/
