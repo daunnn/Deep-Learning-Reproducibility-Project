@@ -19,6 +19,13 @@ Deep-Learning-Reproducibility-Project/
 ```
 ## Installation
 
+This project relies on key machine-learning libraries for model training, evaluation, and data handling. Below are the main libraries used and their versions:
+
+- **PyTorch (1.8.1)**: Used for model building, training, optimization, and leveraging GPU for parallel processing
+- **Torchvision (0.9.1)**: Supports dataset loading and data preprocessing (transforms)
+- **Scikit-learn (1.0.2)**: Provides metrics like the confusion matrix and F1 score for model evaluation
+- **Matplotlib (3.6.0)**: Visualizes model performance metrics during training
+
 Before running the project, ensure you have Python installed on your machine. You can install the required packages by running:
 
 
