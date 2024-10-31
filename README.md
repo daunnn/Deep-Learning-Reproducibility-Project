@@ -44,7 +44,10 @@ Before running the project, ensure you have Python installed on your machine. Yo
 
 ## Datasets 
 
-The original paper provided a dataset for their research, but it was inaccessible to us. As a result, we constructed our own datasets for our experiments: 
+The original paper provided a dataset for their research, but it was inaccessible to us. 
+As the result, we constructed our own datasets for our experiments, using only data that represents three key emotions: positive, neutral, and negative.
+
+
 
 1. AI Hub - Composite Images for Korean Emotion Recognition
  
