@@ -56,7 +56,7 @@ Please refer to our report for more detailed information about the datasets and 
 
 ## Model Architecture
 
-<img src= https://github.com/user-attachments/assets/588c15da-bb25-4818-8de1-3c91d7f98585 width="500"/>
+<img src= https://github.com/user-attachments/assets/588c15da-bb25-4818-8de1-3c91d7f98585 width="800"/>
 
 The POSTER model utilizes a two-stream architecture combining facial landmark and image feature information using cross-fusion transformer blocks. 
 
