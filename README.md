@@ -54,6 +54,24 @@ The original paper provided a dataset for their research, but it was inaccessibl
 
 Please refer to our report for more detailed information about the datasets and our approach.
 
+## Model Architecture
+
+<img src= https://github.com/user-attachments/assets/588c15da-bb25-4818-8de1-3c91d7f98585 width="500"/>
+
+The POSTER model utilizes a two-stream architecture combining facial landmark and image feature information using cross-fusion transformer blocks. 
+
+These transformer blocks facilitate the integration of geometric and textural data, addressing common challenges in FER, such as:
+
+- Inter-class similarity where visually similar expressions (e.g., anger vs. sadness) may confuse the model.
+- Intra-class variation due to individual differences in facial structure, age, or ethnicity.
+- Scale sensitivity, crucial for robust recognition across varying image resolutions.
+
+### Technical Specifications:
+- Pyramid Structure: Allows the model to process features at multiple scales, providing a fine balance between context and detail.
+
+- Training and Inference Time: Each epoch requires approximately 4 hours on an NVIDIA Tesla V100 GPU with a batch size of 32, with an average inference time of 2 seconds per image.
+
+
 ## Checkpoints
 
 The checkpoints we trained are available at the following:
